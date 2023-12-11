@@ -8,6 +8,14 @@ h1, h2, h3 {
     color: #0077cc;
 }
 
+h1 {
+    font-size: 26 px
+}
+
+h2, h3 {
+    font-size: 20 px
+}
+
 p {
     line-height: 1.5;
 }
