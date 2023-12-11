@@ -1,0 +1,22 @@
+body {
+    font-family: "Arial", sans-serif;
+    background-color: #f4f4f4;
+    color: #202020;
+}
+
+h1, h2, h3 {
+    color: #0077cc;
+}
+
+p {
+    line-height: 1.5;
+}
+
+a {
+    color:blueviolet;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
